@@ -1,14 +1,14 @@
 # Real-Time Computer Graphics – Mini-Project
 
-**Erika Brinck Nicolaisen** · Medialogy, Aalborg University Copenhagen · 2026
+**Erika Brinck Nicolaisen**
 
-Exercises for the Real-Time Computer Graphics course, all built around a scanned Christmas gnome: photogrammetry and Gaussian splatting, lighting, camera parameters, Shader Graph, shader code, optimization, image-based lighting and 3D mesh analysis.
+Exercises for the Real-Time Computer Graphics course, built around a scanned Christmas gnome.
+Photogrammetry and Gaussian splatting, lighting, camera parameters, Shader Graph, shader code, optimization, image-based lighting and 3D mesh analysis.
 
 ## Links
 
-- **Video showcase:** [Watch on YouTube](YOUR-YOUTUBE-LINK)
+- **Video showcase:** [Watch on YouTube](https://www.youtube.com/watch?v=ATAmbOXirIY)
 - **Pictorial:** [View online](https://erikanicolaisen.github.io/RTCG-Pictorial-Erika/) · [Download PDF](https://github.com/ErikaNicolaisen/RTCG-Pictorial-Erika/blob/main/document.pdf)
-- **Unity project:** [Real-Time-Computer-Graphics-Erika](https://github.com/ErikaNicolaisen/Real-Time-Computer-Graphics-Erika)
 
 ## Tools
 
