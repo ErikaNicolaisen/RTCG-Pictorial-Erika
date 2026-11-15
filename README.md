@@ -8,7 +8,7 @@ Photogrammetry and Gaussian splatting, lighting, camera parameters, Shader Graph
 ## Links
 
 - **Video showcase:** [Watch on YouTube](https://www.youtube.com/watch?v=ATAmbOXirIY)
-- **Pictorial:** [View online](https://erikanicolaisen.github.io/RTCG-Pictorial-Erika/) · [Download PDF](https://github.com/ErikaNicolaisen/RTCG-Pictorial-Erika/blob/main/document.pdf)
+- **Pictorial:** [View online](https://erikanicolaisen.github.io/RTCG-Pictorial-Erika/) - [Download PDF](https://github.com/ErikaNicolaisen/RTCG-Pictorial-Erika/blob/main/document.pdf)
 
 ## Tools
 
